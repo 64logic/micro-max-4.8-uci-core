@@ -1,0 +1,8 @@
+micro-Max 4.8
+
+third-party/umax4_8.c is the micro-Max 4.8 source code by H.G. Muller.
+
+See PROVENANCE.md in the repository root for the source identity,
+preservation record, and redistribution basis.
+
+64Logic does not relicense third-party/umax4_8.c under the MIT License.
